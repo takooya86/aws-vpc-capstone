@@ -1,3 +1,3 @@
 # AWS Infrastructure Bot
 
-Infrastructure as Code project with AI integration.
+VPC Transit Gateway Capstone Project
